@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Favorite instruments:
+1.  Piano
+2.  Violin
+3.  Cello/Guitar
