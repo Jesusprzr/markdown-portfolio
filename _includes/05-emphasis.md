@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### What I'm currently learning:
+Currently I am learning to *program* with __Python__ and to do _data science_ with **R**. 
